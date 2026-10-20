@@ -22,3 +22,6 @@ Backup con WhatsApp sencillo: https://www.figma.com/design/IBSrbil70Ga1zjWFEPGxC
 
 ## Revisión visual final
 La portada usa una imagen integrada para conservar perspectiva, piso y sombras. Se retiró la composición por capas del personaje. El logo frontal se entrega como PNG transparente. Los locales y horarios se transcribieron de las capturas facilitadas por el usuario. Los enlaces Maps son búsquedas por nombre y dirección, no coordenadas verificadas.
+
+## Reorganización del 20 de octubre
+La landing está en abraxasxferreksa; el sitio completo, en abraxasxferreksa2; la demo con 3D, en abraxasxferreksa9; y la temporal, en abraxasxferreksa0. Las cuatro incluyen tema claro/oscuro. Cotizaciones usa búsqueda, categorías y plantillas editables. Véase docs/REORGANIZACION-20261020.md para alcance y pruebas.
